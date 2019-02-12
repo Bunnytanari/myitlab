@@ -1,19 +1,22 @@
+<!DOCTYPE html>
 <html>
-<head>
-<style type ="text/css" media = "all">
-body{
-background-color:linen;
-}
-h1{
-color:maroon;
-margin-left: 40px;
-}
-</style>
-</head>
-<body>
-<h1> This is a heading </h1>
-<p> This is a paragraph </p>
-</body>
-
+    <head>
+        <title>Style Test</title>
+    </head>
+    <body style="background-color:white;">
+        <h1 style="color:green; background-color:hsla(0,100%,50%,0.6)">Paragraph 1</h1>
+        <p style="color:blue;"> ABCD </p>
+        <h1 style="color:green;background-color:hsla(2, 80%, 75%, 0.5)">Paragraph 2</h1>
+        <p style="color:blue;"> ABCD </p>
+        <h1 style="color:green;background-color:cyan">Paragraph 3</h1>
+        <p style="color:blue;"> ABCD </p>
+        <h1 style="color:green;background-color:brown">Paragraph 4</h1>
+        <p style="color:blue;"> ABCD </p>
+        <h1 style="color:green;background-color:pink">Paragraph 5</h1>
+        <p style="color:blue;"> ABCD </p>
+	<img src="/home/student/2016cse915/image_1.jpg" alt ="Image as link" width="400" height="300px">
+    </body>
 </html>
+
+
 
