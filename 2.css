@@ -1,0 +1,11 @@
+div.first {
+	background: url('img1.jpeg');
+	padding: 100px;
+}
+div.second {
+	opacity: 0.5;
+	background: pink;
+	padding: 50px;
+}
+	
+

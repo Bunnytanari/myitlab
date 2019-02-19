@@ -1,0 +1,59 @@
+p,h1 {
+	color:red;
+}
+#para1 {
+	color:blue;
+	border:10px solid green;
+}
+.colortext {
+	color:green;
+	
+}
+body {
+	background-color:linen;
+	background-image:url("farm.jpg");
+	background-repeat:no-repeat;
+	background-position:75% 35%;
+}
+h1 {
+	background-color:lightblue;5
+	margin:50px 25px 50px 50px;
+	width : 50%;
+	text-transform: uppercase;
+	font-size:3em;
+}
+p{
+	border:10px dotted red;
+	padding:50px;
+	text-transform:capitalize;
+	font-style:italic;
+}
+div {
+	width:200px;
+	border: 25px solid navy;
+}
+a{
+	text-decoration:none;
+}
+a:visited {
+	color:blue;
+}
+a:link {
+	color:red;
+	background-color:white;
+}
+a:active {
+	color:yellow;
+	background-color:yellow;
+}
+a:hover {
+	color:yellow;
+	background-color:gray;
+}
+ul {
+list-style-type:upper-roman;
+}
+table,td,th {
+	border:2px solid green;
+	border-collapse:collapse;
+}
